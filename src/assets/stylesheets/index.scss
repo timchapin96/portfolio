@@ -1,0 +1,64 @@
+* {
+  margin: 0 0;
+}
+
+@import "./App.scss";
+@import "./about_me.scss";
+@import "./navbar.scss";
+@import "./carousel.scss";
+@import "./websites.scss";
+@import "./background.scss";
+@import "./projects.scss";
+@import url('https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=League+Gothic&family=Markazi+Text:wght@400;500;700&family=Montagu+Slab:opsz,wght@16..144,200;16..144,300;16..144,400;16..144,500&family=Zen+Kaku+Gothic+Antique:wght@300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500&family=Kosugi+Maru&family=League+Gothic&family=Markazi+Text:wght@400;500;700&family=Montagu+Slab:opsz,wght@16..144,200;16..144,300;16..144,400;16..144,500&family=Zen+Kaku+Gothic+Antique:wght@300;400;500&display=swap');
+
+html {
+  height: 100lvh;
+  font-size: 62.5%;
+  --font-size-100: 1.5rem;
+  --font-size-200: 1.75rem;
+  --font-size-300: 2rem;
+  --font-size-400: 2.25rem;
+  --font-size-500: 2.5rem;
+  --font-size-600: 2.75rem;
+  --font-size-700: 3rem;
+  --font-size-800: 3.25rem;
+  --font-size-900: 4rem;
+}
+
+body {
+  height: 100lvh;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:  rgb(118, 28, 220);
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+p,
+h4 {
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Montagu Slab';
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
