@@ -52,7 +52,7 @@ function AboutMe() {
             </div>
             <div className="summary">
               <p id="profile-summary">
-                Full Stack Web Developer located in Tokyo. I am currently an English Teacher in the central Tokyo area using my coding to make fun, interactive games for my students!
+              I thrive on finding problems in my day to day life in Japan and creating innovative solutions. I’m particularly drawn to map-based applications and language learning tools. Whether visualizing data through geographical maps or designing engaging language learning experiences, I love transforming complex ideas into user-friendly solutions.
               </p>
             </div>
           </div>
