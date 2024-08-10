@@ -36,7 +36,7 @@ function AboutMe() {
         <div className="profile-main">
           <div className="img-header">
             <div className="profile-img">
-              <img onClick={handleSpinClick} src="/profile.jpeg" alt="Timothy Chapin" />
+              <img onClick={handleSpinClick} src="/portfolio_box.jpeg" alt="Timothy Chapin" />
             </div>
             <div className="social-links">
               <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/timothy-chapin/"><img id="linkedin" src="/linkedin.svg" alt="linkedin link"></img></a>
