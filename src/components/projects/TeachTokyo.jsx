@@ -6,7 +6,7 @@ export default function TeachTokyo() {
             <a
               target='_blank'
               rel='noopener noreferrer'
-              href='https://www.teachtokyo.com/'
+              href='https://www.linkedin.com/posts/timothy-chapin_video-students-eslteaching-activity-7085207528086634496-dvCP/'
               alt='teach tokyo website'
             >
               <img src='/TeachTokyo.png' alt='thumbnail'></img>

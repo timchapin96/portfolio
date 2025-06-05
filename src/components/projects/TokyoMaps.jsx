@@ -6,7 +6,7 @@ export default function TokyoMaps () {
           <a
             target='_blank'
             rel='noopener noreferrer'
-            href='https://www.tokyomaps.net/'
+            href='https://www.youtube.com/watch?v=irUTxtEyPDQ&ab_channel=LeWagon'
             alt='teach tokyo website'
           >
             <img src='/TokyoMaps.png' alt='thumbnail'></img>
