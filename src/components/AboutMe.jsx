@@ -59,7 +59,7 @@ function AboutMe() {
         </div>
         <div className="profile-footer">
           <div className="resume">
-            <a href={MyResume} download="TimChapinResume" alt="Tim's Resume" target="_blank" rel="noreferrer">
+            <a href={MyResume} download="resumes.zip" alt="Tim's Resume's" target="_blank" rel="noreferrer">
               <button>
                 <p className="resume-text">Resume</p>
                 <div className="download-svg"><AiOutlineDownload /></div>
