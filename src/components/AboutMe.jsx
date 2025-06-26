@@ -41,8 +41,6 @@ function AboutMe() {
             <div className="social-links">
               <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/timothy-chapin/"><img id="linkedin" src="/linkedin.svg" alt="linkedin link"></img></a>
               <a target="_blank" rel="noopener noreferrer" href="https://github.com/timchapin96"><img id="github" src="/github.svg" alt="github link"></img></a>
-              <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/timothy.chapin.12/"><img id="facebook" src="/facebook.svg" alt="facebook link"></img></a>
-              <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/timchap96/"><img id="instagram" src="/instagram-logo.svg" alt="instagram link"></img></a>
             </div>
           </div>
           <div className="profile-body">
@@ -59,7 +57,7 @@ function AboutMe() {
         </div>
         <div className="profile-footer">
           <div className="resume">
-            <a href="resumes.zip" download="MyResumes.zip" alt="Tim's Resume's" target="_blank" rel="noreferrer">
+            <a href="Resumes.zip" download="Resumes" alt="Tim's Resume's" target="_blank" rel="noreferrer">
               <button>
                 <p className="resume-text">Resume</p>
                 <div className="download-svg"><AiOutlineDownload /></div>
